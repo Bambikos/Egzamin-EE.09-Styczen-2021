@@ -1,1 +1,23 @@
-# Egzamin-EE.09_Stycze-_2021
+# Egzamin E.14 (01.19)
+
+**Temat:** Tworzenie aplikacji internetowej zgodnie z wymaganiami egzaminacyjnymi kwalifikacji EE.09.  
+**Data:** Styczeń 2021, wersja 01
+
+## 📁 Struktura
+- `index.html` – kod strony
+- `styl.css` – style CSS
+- `grafika/` – grafiki do strony
+
+## 🧩 Wymagania
+- Zgodność z treścią egzaminu EE.09
+- Poprawne formatowanie i układ strony
+- Grafika zgodnie z opisem zadania
+
+## 📸 Podgląd strony
+![Podgląd strony](Screenshots/Podglad_strony.png)
+
+## 🏷️ Licencja
+MIT
+
+## ✍️ Autor
+Bambikos • [GitHub](https://github.com/Bambikos)
