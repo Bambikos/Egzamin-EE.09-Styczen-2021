@@ -1,0 +1,61 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: crimson;
+}
+
+#baner{
+    color: white;
+    text-align: center;
+    height: 370px;
+}
+
+.info{
+    color: white;
+    text-align: center;
+    margin-block: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 17%;
+    display: inline-block;
+}
+
+#glowny{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+#lewy{
+    background-color: whitesmoke;
+    width: 70%;
+    height: 230px;
+    padding: 10px;
+}
+
+#prawy{
+    background-color: whitesmoke;
+    width: 30%;
+    height: 230px;
+    text-align: right;
+    padding: 10px;
+
+}
+
+h2{
+    text-align: center;
+    letter-spacing: 7px;
+    text-transform: capitalize;
+}
+
+#mecze{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+    flex-wrap: wrap;
+}
+
+#srodek{
+    display: flex;
+}
